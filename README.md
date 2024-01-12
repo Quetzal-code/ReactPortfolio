@@ -8,8 +8,8 @@ El "SPA Portfolio by Quetzal Uzcategui" es una aplicación web de página única
 Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 ```bash
-git clone https://github.com/quetzaluzcategui/spa-portfolio.git
-cd spa-portfolio
+git clone https://github.com/quetzaluzcategui/reactportfolio.git
+cd reactportfolio
 npm install
 npm start
 ```
