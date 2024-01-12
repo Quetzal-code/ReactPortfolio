@@ -15,6 +15,6 @@ npm start
 ```
 
 ## Tecnologías Utilizadas
-React.js: Para la interfaz de usuario y la gestión del estado.
-HTML/CSS: Para estructura y estilo.
-JavaScript (ES6+): Para la lógica de programación.
+1. React.js: Para la interfaz de usuario y la gestión del estado.
+2. HTML/CSS: Para estructura y estilo.
+3. JavaScript (ES6+): Para la lógica de programación.
